@@ -63,7 +63,6 @@
 > 프로젝트 소개 동영상을 교육원 메일(swedu@pusan.ac.kr)로 제출 이후 센터에서 부여받은 youtube URL주소를 넣으세요.
 
 ### 6. 팀 소개
-팀원 소개 & 구성원 별 역할 분담 & 간단한 연락처를 작성하세요.
 | 조은서 | 김지현 | 홍지민 |
 |:-------:|:-------:|:-------:|
 |<img width="100px" alt="MEMBER1" src="https://avatars.githubusercontent.com/u/174792755?s=96&v=4" /> | <img width="100px" alt="MEMBER2" src="https://avatars.githubusercontent.com/u/214676977?v=4" /> | <img width="100px" alt="MEMBER3" src="https://avatars.githubusercontent.com/u/214676295?v=4" /> |
