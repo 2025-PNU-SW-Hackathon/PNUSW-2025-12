@@ -66,7 +66,6 @@
 | 조은서 | 김지현 | 홍지민 |
 |:-------:|:-------:|:-------:|
 |<img width="100px" alt="MEMBER1" src="https://avatars.githubusercontent.com/u/174792755?s=96&v=4" /> | <img width="100px" alt="MEMBER2" src="https://avatars.githubusercontent.com/u/214676977?v=4" /> | <img width="100px" alt="MEMBER3" src="https://avatars.githubusercontent.com/u/214676295?v=4" /> |
-| 01058384020 | 01040540363 | 01089028424 |
 | escho922@pusan.ac.kr | kimjh05@pusan.ac.kr | wlals0713--@naver.com |
 | 프론트앤드 개발 | 인프라 구축 <br/> 백앤드 개발 | DB 설계 <br/> 백앤드 개발 |
 
